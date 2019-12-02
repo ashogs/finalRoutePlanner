@@ -1,0 +1,12 @@
+Mjømna,Furenes,5
+Furenes,Eivindvik,7
+Eivindvik,Oppedal,12
+Eivindvik,Rutledal,15
+Rutledal,Oppedal,10
+Rutledal,Daløy,30
+Rutledal,Sløvåg,10
+Sløvåg,Daløy,9
+Daløy,Nåra,11
+Rutledal,Ynnesdal,20
+Ynnesdal,Leirvik,16
+Leirvik,Nåra,30
